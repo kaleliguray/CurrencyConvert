@@ -14,7 +14,7 @@ clone the relevant project. (You will receive a link from our repo here)
 
 After cloning the project, you can open the project with Eclips or IntellijIDEA.
 
-Linux için:
+For Linux:
 
 ```
 cd kodluyoruzilkrepo
