@@ -7,7 +7,7 @@ I tried to import input data from outside in this repo and change the currency b
 
 clone the relevant project. (You will receive a link from our repo here)
 
-` git clone https://github.com/kaleliguray/kodluyoruzilkrepo.git `
+` git clone https://github.com/kaleliguray/CurrencyConvert.git `
 
 
 ## Usage
